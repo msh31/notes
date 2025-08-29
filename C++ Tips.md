@@ -27,3 +27,7 @@ std::cout << text;
 ## 2. [Placeholder]
 
 place holder text
+
+---
+
+Written by [Marco](https://github.com/msh31/)
